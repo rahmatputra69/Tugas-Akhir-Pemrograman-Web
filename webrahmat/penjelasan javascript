@@ -1,0 +1,9 @@
+// Ini adalah koment
+
+/*Ini adalah komentar
+lebih dari satu baris
+*/
+Elemen var merupakan singkatan dari Variabel yang digunakan untuk mendefinisikan dan menuliskan sebuah variabel program ataupun rumus matematika. Teks yang berada di tag ini akan ditampilan dalam bentuk miring (italic).
+HTML element button menunjukkan sebuah tombol yang secara umum memiliki style layaknya sebuah tombol yang dapat diklik untuk menjalankan tindakan tertentu.
+
+Konten/teks didalam element button merupakan label dari tombol tersebut. Pada <button> element, dapat pula dimasukkan gambar sebagai tampilan dari tombol itu sendiri, ini yang membedakan antara tombol yang dibuat dengan element <button> dan element <input>.

@@ -1,0 +1,3 @@
+Putra|Switter|2|180000|360000|about_1.jpg
+Lugas|Jaket|2|200000|400000|jaketapik.jpg
+Reza|Sepatu|3|300000|900000|product_1_bg.jpg
